@@ -228,7 +228,7 @@
 </header>
 
 <!-- CONTENT -->
-
+<?php echo base_url(); ?>
 <section>
 
 	<h1>About this page</h1>
